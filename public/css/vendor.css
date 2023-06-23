@@ -1321,6 +1321,7 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
   0% {
     opacity: 1;
   }
+
   100% {
     opacity: 0;
   }
@@ -1330,6 +1331,7 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
   0% {
     opacity: 1;
   }
+
   100% {
     opacity: 0;
   }
@@ -1623,7 +1625,7 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 .lity-close:active::after,
 .lity-close:visited::before,
 .lity-close:visited::after {
-  background-color: #39b54a;
+  background-color: #80BFE1;
 }
 
 
